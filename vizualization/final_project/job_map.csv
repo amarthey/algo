@@ -1,0 +1,25 @@
+job,job_group
+other,other
+student,student
+science / tech / engineering,tech
+computer / hardware / software,tech
+artistic / musical / writer,artistic
+sales / marketing / biz dev,sales
+medicine / health,med
+education / academia,edu
+executive / management,exec
+banking / financial / real estate,fin
+entertainment / media,entmt
+law / legal services,law/gov
+hospitality / travel,travel
+construction / craftsmanship,other
+clerical / administrative,other
+political / government,law/gov
+rather not say,other
+transportation,other
+unemployed,other
+retired,other
+military,other
+english (fluently),other
+"english (fluently), spanish (poorly), german (poorly), latin (poorly), french (poorly)",other
+other and laughing about it,other
